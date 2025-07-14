@@ -1,3 +1,4 @@
+<img src="https://github.com/har5hdeep5harma/har5hdeep5harma/blob/main/readme_image.jpg"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Viewer!;Welcome+to+my+Github+Profile;Do+you+know?;The+problem+with+being,;Faster+than+Light+is+that...;You+can+only+live+in+Darkness!;Until+you+realise!;That+you+are+the+Light+Yourself+🌄;I+hope+we+will+have,;A+Great+Journey+Ahead.;Have+a+Nice+Day!)](https://www.linkedin.com/in/har5hdeep5harma/)
 
 - 👋 Greetings, Digital Wayfarer — I am @har5hdeep5harma (Harshdeep Sharma).
