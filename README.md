@@ -4,9 +4,8 @@
 
 - 👋 Greetings, Digital Wayfarer — I am @har5hdeep5harma (Harshdeep Sharma).
 
-- 👀 I harbour an insatiable intellectual predilection for the arcane intricacies and empirical elegance of **Data Science**, the algorithmic mysticism of **Artificial Intelligence and Machine Learning**, the clandestine cartographies of **OSINT**, the intricate tapestries of **Web Development**, the cryptographic catacombs of **Cybersecurity**, and the palimpsestic chronicles of **History**.  
-  My soul is equally stirred by the dialectical labyrinths of **Philosophy**, the unfathomable abysses of **Psychoanalysis**, the Machiavellian undercurrents of **Geopolitics**, the capricious alchemy of **Economics**, and the kaleidoscopic wonders of **Science** itself.  
-  Indeed, my curiosity acknowledges no cartographic constraint — it aspires, unabashedly and inexorably, to embrace domains vaster than the very architecture of the universe itself.
+- 👀 I hold a deep fascination for the analytical rigour of Data Science, the precision of Artificial Intelligence and Machine Learning, the investigative depth of OSINT, the structural elegance of Web Development, and the instructive expanse of History.
+My interests extend to the dialectics of Philosophy, the insights of Psychoanalysis, the dynamics of Geopolitics, the mechanics of Economics, and the diverse frontiers of Science.
 
 - 🌱 I’m presently immersed in the rigorous pursuit of **Data Science** and **OSINT**, inching ever closer to that asymptotic ideal of omniscience.
 
