@@ -10,7 +10,7 @@ My interests extend to the dialectics of Philosophy, the insights of Psychoanaly
 
 - 🌱 I’m presently immersed in the rigorous pursuit of **Data Science** and **OSINT**, inching ever closer to that asymptotic ideal of omniscience.
 
-- 💞️ I’m looking to collaborate on intellectually audacious ventures that dwell at the intersection of data, security, philosophy, and digital futurism — projects where curiosity is currency and ambition, the lingua franca.
+- 💞️ I’m looking to collaborate on intellectually audacious ventures that dwell at the intersection of data, security, philosophy, and digital futurism, projects where curiosity is currency and ambition, the lingua franca.
 
 - 📫 You may invoke correspondence through: **harsh7251909511@gmail.com** where words are welcome and collaborations kindled.
 
